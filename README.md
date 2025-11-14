@@ -1,3 +1,4 @@
+
 \# 🧮 Sales Analysis Project
 
 
@@ -33,4 +34,5 @@ This is a simple data analytics project in Python.
 The script prints a table and shows a chart of sales, expenses, and profit.
 
 
-
+# sales-analysis-project
+0cc121da441754b81727388c03182abfc7844db0
